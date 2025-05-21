@@ -80,7 +80,7 @@
       "openMRSSystemSettingUrl": "/openmrs/ws/rest/v1/systemsetting/",
       "baseLocaleURL": "./i18n/",
       "customLocaleURL": "/bahmni_config/openmrs/i18n/",
-      "loginPageUrl": "../../liferythem/home/index.html#/login",
+      "loginPageUrl": "../../bahmni/home/index.html#/login",
       "patientsURL": "/bahmni/clinical/index.html#/default/patient/",
       "patientsURLGeneralInformationTab": "/dashboard?currentTab=DASHBOARD_TAB_GENERAL_KEY",
       "appointmentsListPatientLink": "/bahmni/clinical/index.html#/default/patient/{{patientId}}/dashboard?currentTab=DASHBOARD_TAB_GENERAL_KEY"
@@ -88,7 +88,7 @@
   },
   "Appointments": {
     "Constants": {
-      "homeUrl": "../../liferythem/home/index.html",
+      "homeUrl": "../../bahmni/home",
       "createServiceUrl": "/openmrs/ws/rest/v1/appointmentService",
       "getServiceLoad": "/openmrs/ws/rest/v1/appointmentService/load",
       "getAllSpecialitiesUrl": "/openmrs/ws/rest/v1/speciality/all",
